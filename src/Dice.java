@@ -32,7 +32,7 @@ public class Dice {
         roll = in.nextInt();
         }
            if (roll!= 1 && roll != 0){
-               System.out.println("Enter valid input, idiot.");
+               System.out.println("Enter valid input, please.");
                System.out.println("Press 1 to roll, 0 to quit");
                roll=in.nextInt();
            }
